@@ -145,7 +145,7 @@ Blinkit-Sales-Delivery-Analytics/
 
 ## 🙋 About Me
 
-**Satyam** — B.Com student (University of Mumbai) building a career in Data Analytics.
+**Kaif** — B.Com student (University of Mumbai) building a career in Data Analytics.
 Skills: Advanced Excel · SQL · Python (Pandas, NumPy) · Power BI
 
 📫 Feel free to connect on [LinkedIn](#) or check out my other projects!
